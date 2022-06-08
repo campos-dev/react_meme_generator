@@ -40,6 +40,8 @@ main {
   grid-template: 40px 40px / 1fr 1fr;
   gap: 17px;
   margin-bottom: 17px;
+  max-width: 570px;
+  margin: -1rem auto 2rem auto;
 }
 
 .form--input {
@@ -66,7 +68,7 @@ main {
 
 .meme--image {
   max-width: 100%;
-  max-height: 400px;
+  max-height: 370px;
   border-radius: 3px;
 }
 
